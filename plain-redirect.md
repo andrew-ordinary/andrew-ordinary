@@ -1,4 +1,4 @@
 ---
 layout: forward
-target: https://example.com
+target: https://facebook.com
 ---
